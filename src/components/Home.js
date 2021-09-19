@@ -7,6 +7,9 @@ function Home() {
         <div className='home'>
            <Container>
              <Section />
+             <Section />
+             <Section />
+             <Section />
            </Container>
             
            
